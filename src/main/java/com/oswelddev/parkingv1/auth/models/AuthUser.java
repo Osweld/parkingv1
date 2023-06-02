@@ -1,4 +1,4 @@
-package com.oswelddev.parkingv1.auth;
+package com.oswelddev.parkingv1.auth.models;
 
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.User;
